@@ -24,6 +24,8 @@ conda env create -f environment.yml
 ```
 
 
+Unzip the ```data.zip```
+
 
 
 ## Running FECGNN
